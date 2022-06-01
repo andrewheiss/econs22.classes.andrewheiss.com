@@ -1,9 +1,9 @@
 ---
 title: "Capitalism and measurement"
 linktitle: "1: Capitalism and measurement"
-date: "2021-06-07"
-start_date: "2021-06-07"
-end_date: "2021-06-11"
+date: "2022-06-06"
+start_date: "2022-06-06"
+end_date: "2022-06-10"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_01-slides.pdf
-thumb: /slides/pmap8141_s21_01-slides.png
+pdf: /slides/pmap8141_s22_01-slides.pdf
+thumb: /slides/pmap8141_s22_01-slides.png
 toc: true
 ---
 
@@ -20,8 +20,8 @@ toc: true
 
 -   <i class="fas fa-book"></i> Chapters 1 and 9 in *Naked Economics*[^1]
 -   <i class="fas fa-book"></i> [Introduction and 1.1–1.10](https://www.core-econ.org/espp/book/text/01.html) in *Economy, Society, and Public Policy*[^2]
--   <i class="fas fa-external-link-square-alt"></i> [“Dismal ignorance of the “dismal science”—a response to Larry Elliot"](https://www.prospectmagazine.co.uk/economics-and-finance/dismal-ignorance-of-the-dismal-science-a-response-to-larry-elliot)
--   <i class="fas fa-podcast"></i> Planet Money, [“The Invention Of ‘The Economy,’”](https://www.npr.org/sections/money/2017/03/15/520294083/episode-522-the-invention-of-the-economy) episode 522
+-   <i class="fas fa-external-link-square-alt"></i> [“Dismal ignorance of the “dismal science”—a response to Larry Elliot”](https://www.prospectmagazine.co.uk/economics-and-finance/dismal-ignorance-of-the-dismal-science-a-response-to-larry-elliot)
+-   <i class="fas fa-podcast"></i> Planet Money, [“The Invention Of ‘The Economy’,”](https://www.npr.org/sections/money/2017/03/15/520294083/episode-522-the-invention-of-the-economy) episode 522
 -   <i class="fas fa-podcast"></i> On the Media, [“Money, Then and Now,”](https://www.wnycstudios.org/story/money-then-and-now-1) July 5, 2019
 
 ## Other useful resources

@@ -20,7 +20,7 @@ design:
     text_color_light: true
 
 cta_note:
-  label: PMAP 8141 • Summer 2021<br>Andrew Young School of Policy Studies<br>Georgia State University
+  label: PMAP 8141 • Summer 2022<br>Andrew Young School of Policy Studies<br>Georgia State University
 ---
 
 **Learn how to understand, speak, and do economics in the public sector**

@@ -1,9 +1,9 @@
 ---
 title: "When governments go wrong"
 linktitle: "13: When governments go wrong"
-date: "2021-07-19"
-start_date: "2021-07-19"
-end_date: "2021-07-23"
+date: "2022-07-18"
+start_date: "2022-07-18"
+end_date: "2022-07-22"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_13-slides.pdf
-thumb: /slides/pmap8141_s21_13-slides.png
+pdf: /slides/pmap8141_s22_13-slides.pdf
+thumb: /slides/pmap8141_s22_13-slides.png
 toc: true
 ---
 
@@ -31,7 +31,7 @@ toc: true
 -   <i class="fab fa-twitter-square"></i> [Excerpt from *Amanpour and Company*’s interview with Mehrsa Baradaran](https://twitter.com/amanpourcopbs/status/1283481709070123008?s=21), July 15, 2020
 -   <i class="fas fa-external-link-square-alt"></i> Dedrick Asante-Muhammad, Chuck Collins, Darrick Hamilton, and Josh Hoxie, [“Ten Solutions to Bridge the Racial Wealth Gap”](https://inequality.org/great-divide/ten-solutions-bridge-racial-wealth-divide/)
 -   <i class="far fa-file-pdf"></i> Hamilton, et al., [“Umbrellas Don’t Make it Rain: Why Studying and Working Hard Isn’t Enough for Black Americans”](http://econ.hunter.cuny.edu/wp-content/uploads/2016/03/seminar2016-darity2.pdf)[^1]
--   <i class="fas fa-external-link-square-alt"></i> Mehrsa Baradaran, ["The Real Roots of ‘Black Capitalism’’](https://www.nytimes.com/2019/03/31/opinion/nixon-capitalism-blacks.html), *The New York Times*, March 31, 2019
+-   <i class="fas fa-external-link-square-alt"></i> Mehrsa Baradaran, [“The Real Roots of ‘Black Capitalism’’](https://www.nytimes.com/2019/03/31/opinion/nixon-capitalism-blacks.html), *The New York Times*, March 31, 2019
 
 ## Optional listening but highly recommended
 

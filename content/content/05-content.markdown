@@ -1,9 +1,9 @@
 ---
 title: "Work, wellbeing, and scarcity"
 linktitle: "5–6: Work, wellbeing, and scarcity"
-date: "2021-06-21"
-start_date: "2021-06-21"
-end_date: "2021-06-25"
+date: "2022-06-20"
+start_date: "2022-06-20"
+end_date: "2022-06-24"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_05_06-slides.pdf
-thumb: /slides/pmap8141_s21_05_06-slides.png
+pdf: /slides/pmap8141_s22_05_06-slides.pdf
+thumb: /slides/pmap8141_s22_05_06-slides.png
 toc: true
 ---
 
@@ -20,7 +20,7 @@ toc: true
 
 -   <i class="fas fa-book"></i> Introduction and 4.1-4.12 in *Economy, Society, and Public Policy*[^1]
 -   <i class="fas fa-book"></i> Chapters 2 and 6 in *Naked Economics*[^2]
--   <i class="fas fa-external-link-square-alt"></i> Anuschka de Rohan, [“Why dolphins are deep thinkers,”](https://www.theguardian.com/science/2003/jul/03/research.science) The Guardian, July 2, 2003 (first 3 paragraphs only)
+-   <i class="fas fa-external-link-square-alt"></i> Anuschka de Rohan, [“Why dolphins are deep thinkers”,](https://www.theguardian.com/science/2003/jul/03/research.science) The Guardian, July 2, 2003 (first 3 paragraphs only)
 -   <i class="fas fa-external-link-square-alt"></i> Charles Duhigg, [“Warning: Habits May Be Good for You,”](http://www.nytimes.com/2008/07/13/business/13habit.html) New York Times, July 13, 2008
 -   <i class="fas fa-external-link-square-alt"></i> Randall Munroe, [“Cost of Pennies”](https://what-if.xkcd.com/22/)
 -   <i class="fas fa-external-link-square-alt"></i> Randall Munroe, [“Working”](https://xkcd.com/951/)

@@ -1,8 +1,8 @@
 ---
 title: "Weekly report 7"
 linktitle: "Weekly report 7"
-date: "2021-07-26"
-due_date: "2021-07-26"
+date: "2022-07-25"
+due_date: "2022-07-25"
 due_time: "11:59 PM"
 menu:
   assignment:

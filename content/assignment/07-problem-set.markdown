@@ -1,8 +1,8 @@
 ---
 title: "Problem set 7"
 linktitle: "Problem set 7"
-date: "2021-07-26"
-due_date: "2021-07-26"
+date: "2022-07-25"
+due_date: "2022-07-25"
 due_time: "11:59 PM"
 menu:
   assignment:
@@ -50,11 +50,17 @@ Discuss whether the following statements are true or false and explain why in **
 
     Draw the resulting pattern (use colors for the coin types, or symbols like • for pennies and \# for dimes, or whatever):
 
+        ## Warning: It is deprecated to specify `guide = FALSE` to remove a guide. Please
+        ## use `guide = "none"` instead.
+
     <img src="/assignment/07-problem-set_files/figure-html/show-board-1-1.png" width="240" />
 
 2.  Now pretend that each penny wants to live in a “neighborhood” (the nine squares of which they are the center) that has *at least as many pennies as dimes*. Start at one corner of the board and look at the first penny. Determine the makeup of its neighbors. If there are too many dimes around the penny, move the penny to the closest acceptable square. Move on to the next penny and check its neighborhood, moving it to a new area if necessary. Do this for all the pennies and then all the dimes.
 
     Draw the resulting pattern:
+
+        ## Warning: It is deprecated to specify `guide = FALSE` to remove a guide. Please
+        ## use `guide = "none"` instead.
 
     <img src="/assignment/07-problem-set_files/figure-html/show-board-2-1.png" width="240" />
 

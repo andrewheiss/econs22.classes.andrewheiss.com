@@ -1,9 +1,9 @@
 ---
 title: "Markets, public policy, and public administration"
 linktitle: "15: Markets, public policy, and public administration"
-date: "2021-07-26"
-start_date: "2021-07-26"
-end_date: "2021-07-26"
+date: "2022-07-25"
+start_date: "2022-07-25"
+end_date: "2022-07-25"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_15-slides.pdf
-thumb: /slides/pmap8141_s21_15-slides.png
+pdf: /slides/pmap8141_s22_15-slides.pdf
+thumb: /slides/pmap8141_s22_15-slides.png
 toc: true
 ---
 
@@ -48,4 +48,4 @@ You can also watch the playlist (and skip around to different sections) here:
 
 [^1]: Charles E. Lindblom, “The Science of ‘Muddling Through’,” *Public Administration Review* 19, no. 2, Spring (1959): 79–88.
 
-[^2]: Esther Duflo, “Policies, Politics: Can Evidence Play a Role in the Fight Against Poverty?”   (Washington, D. C.: Center for Global Development, April 2011).
+[^2]: Esther Duflo, “Policies, Politics: Can Evidence Play a Role in the Fight Against Poverty?” \~ (Washington, D. C.: Center for Global Development, April 2011).

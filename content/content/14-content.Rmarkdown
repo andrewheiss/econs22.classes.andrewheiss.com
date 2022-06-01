@@ -1,9 +1,9 @@
 ---
 title: "Institutional alternatives"
 linktitle: "14: Institutional alternatives"
-date: "2021-07-19"
-start_date: "2021-07-19"
-end_date: "2021-07-23"
+date: "2022-07-18"
+start_date: "2022-07-18"
+end_date: "2022-07-22"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_14-slides.pdf
-thumb: /slides/pmap8141_s21_14-slides.png
+pdf: /slides/pmap8141_s22_14-slides.pdf
+thumb: /slides/pmap8141_s22_14-slides.png
 toc: true
 ---
 

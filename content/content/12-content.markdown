@@ -1,9 +1,9 @@
 ---
 title: "Market failures"
 linktitle: "12: Market failures"
-date: "2021-07-12"
-start_date: "2021-07-12"
-end_date: "2021-07-16"
+date: "2022-07-11"
+start_date: "2022-07-11"
+end_date: "2022-07-15"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_12-slides.pdf
-thumb: /slides/pmap8141_s21_12-slides.png
+pdf: /slides/pmap8141_s22_12-slides.pdf
+thumb: /slides/pmap8141_s22_12-slides.png
 toc: true
 ---
 
@@ -22,7 +22,7 @@ toc: true
 -   <i class="far fa-file-pdf"></i> A. Danny Ellerman, [“US Experience with Emissions Trading”](http://www.cesifo-group.de/DocDL/dicereport407-forum3.pdf)[^2]
 -   <i class="fab fa-youtube"></i> *The Lorax*, [“How Bad Can I Be?”](https://www.youtube.com/watch?v=W_HUdf89hI8)
 -   <i class="fas fa-podcast"></i> Freakonomics, [“Parking Is Hell,”](http://freakonomics.com/podcast/parking-is-hell-a-new-freakonomics-radio-podcast/) Episode 118, March 13, 2013
--   <i class="fas fa-podcast"></i> All Things Considered, [“Nobel Laureate: ‘I’ve Been Wrong So Often, I Don’t Find It Extraordinary At All,’”](https://www.npr.org/sections/money/2012/05/09/152197483/nobel-laureate-ive-been-wrong-so-often-i-dont-find-it-extraordinary-at-all) May 8, 2012
+-   <i class="fas fa-podcast"></i> All Things Considered, [“Nobel Laureate: ‘I’ve Been Wrong So Often, I Don’t Find It Extraordinary At All’,”](https://www.npr.org/sections/money/2012/05/09/152197483/nobel-laureate-ive-been-wrong-so-often-i-dont-find-it-extraordinary-at-all) May 8, 2012
 -   <i class="fas fa-podcast"></i> All Things Considered, [“The Nobel Laureate Who Figured Out How To Deal With Annoying People,”](https://www.npr.org/sections/money/2013/09/10/218526472/the-nobel-prizewinner-who-figured-out-how-to-deal-with-annoying-people) September 3, 2013
 
 ## Other useful resources

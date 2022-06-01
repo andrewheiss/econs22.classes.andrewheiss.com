@@ -1,5 +1,5 @@
 OUTPUTDIR=public
-SSH_TARGET=cloud:/home/andrew/sites/econs21.classes/public_html
+SSH_TARGET=cloud:/home/andrew/sites/econs22.classes/public_html
 
 .PHONY : all clean serve build deploy thumb_slides
 

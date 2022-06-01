@@ -1,7 +1,7 @@
 ---
 title: "Weekly report template"
 linktitle: "Weekly report template"
-date: "2021-06-07"
+date: "2022-06-06"
 menu:
   assignment:
     parent: Weekly reports

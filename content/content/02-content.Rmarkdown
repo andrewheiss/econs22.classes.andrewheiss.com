@@ -1,9 +1,9 @@
 ---
 title: "Markets and democracy"
 linktitle: "2: Markets and democracy"
-date: "2021-06-07"
-start_date: "2021-06-07"
-end_date: "2021-06-11"
+date: "2022-06-06"
+start_date: "2022-06-06"
+end_date: "2022-06-10"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_02-slides.pdf
-thumb: /slides/pmap8141_s21_02-slides.png
+pdf: /slides/pmap8141_s22_02-slides.pdf
+thumb: /slides/pmap8141_s22_02-slides.png
 toc: true
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Work, wellbeing, and scarcity II"
 linktitle: "6: Work, wellbeing, and scarcity II"
-date: "2021-06-21"
-start_date: "2021-06-21"
-end_date: "2021-06-25"
+date: "2022-06-20"
+start_date: "2022-06-20"
+end_date: "2022-06-24"
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"

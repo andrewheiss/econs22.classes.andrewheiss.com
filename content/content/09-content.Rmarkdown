@@ -1,9 +1,9 @@
 ---
 title: "Firms and markets"
 linktitle: "9–10: Firms and markets"
-date: "2021-07-05"
-start_date: "2021-07-05"
-end_date: "2021-07-09"
+date: "2022-07-05"
+start_date: "2022-07-05"
+end_date: "2022-07-08"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_09_10-slides.pdf
-thumb: /slides/pmap8141_s21_09_10-slides.png
+pdf: /slides/pmap8141_s22_09_10-slides.pdf
+thumb: /slides/pmap8141_s22_09_10-slides.png
 toc: true
 ---
 

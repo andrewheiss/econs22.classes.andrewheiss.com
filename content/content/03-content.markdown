@@ -1,9 +1,9 @@
 ---
 title: "Social interactions and economic outcomes"
 linktitle: "3: Social interactions and economic outcomes"
-date: "2021-06-14"
-start_date: "2021-06-14"
-end_date: "2021-06-18"
+date: "2022-06-13"
+start_date: "2022-06-13"
+end_date: "2022-06-17"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_03-slides.pdf
-thumb: /slides/pmap8141_s21_03-slides.png
+pdf: /slides/pmap8141_s22_03-slides.pdf
+thumb: /slides/pmap8141_s22_03-slides.png
 toc: true
 ---
 

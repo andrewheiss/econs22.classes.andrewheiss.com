@@ -1,8 +1,8 @@
 ---
 title: "Problem set 4"
 linktitle: "Problem set 4"
-date: "2021-07-05"
-due_date: "2021-07-05"
+date: "2022-07-05"
+due_date: "2022-07-05"
 due_time: "11:59 PM"
 menu:
   assignment:
@@ -71,7 +71,7 @@ Leslie Knope, deputy director of the parks department, once mused "Why would any
 
 Here are 5 different sets of budget lines and indifference curves. In each, *point A* shows original consumption, *point B* shows new consumption after a change in budget, and *point C* shows the in-between level of hypothetical consumption. *The red line shows the original budget line; the blue line shows the budget line after a change in prices.*
 
-<img src="/img/assignments/indifference-curves-waffles.png" width="100%" />
+<img src="../../../../../../../img/assignments/indifference-curves-waffles.png" width="100%" />
 
 For each of these questions, select the appropriate answer(s) and explain why in ***≈20 words.***
 

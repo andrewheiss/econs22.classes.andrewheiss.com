@@ -15,7 +15,7 @@ main:
     url: /resource/
     weight: 5
   - name: '<i class="fab fa-slack"></i>'
-    url: "https://gsuecons21.slack.com"
+    url: "https://gsuecons22.slack.com"
     weight: 6
 
 content:

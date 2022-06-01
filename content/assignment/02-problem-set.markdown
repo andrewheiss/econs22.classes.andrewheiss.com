@@ -1,8 +1,8 @@
 ---
 title: "Problem set 2"
 linktitle: "Problem set 2"
-date: "2021-06-21"
-due_date: "2021-06-21"
+date: "2022-06-20"
+due_date: "2022-06-20"
 due_time: "11:59 PM"
 menu:
   assignment:
@@ -61,13 +61,13 @@ The following game represents the interaction between two software engineers, As
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;vertical-align: middle !important;" rowspan="2"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Astrid</span></span> </td>
+   <td style="text-align:center;"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Astrid</span></span> </td>
    <td style="text-align:center;"> <span style=" font-weight: bold;    ">Java</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">$4,000</span> , <span style="color: #5e81ac;">$3,000</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">$2,000</span> , <span style="color: #5e81ac;">$2,000</span> </td>
   </tr>
   <tr>
-   
+   <td style="text-align:center;"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Astrid</span></span> </td>
    <td style="text-align:center;"> <span style=" font-weight: bold;    ">C++</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">$0</span> , <span style="color: #5e81ac;">$0</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">$3,000</span> , <span style="color: #5e81ac;">$6,000</span> </td>
@@ -143,13 +143,13 @@ This situation can be modeled with the following payoff matrix:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;vertical-align: middle !important;" rowspan="2"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Nonprofit 1</span></span> </td>
+   <td style="text-align:center;"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Nonprofit 1</span></span> </td>
    <td style="text-align:center;"> <span style=" font-weight: bold;    ">Run<br>shelter</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">100</span> , <span style="color: #5e81ac;">100</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">0</span> , <span style="color: #5e81ac;">5</span> </td>
   </tr>
   <tr>
-   
+   <td style="text-align:center;"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Nonprofit 1</span></span> </td>
    <td style="text-align:center;"> <span style=" font-weight: bold;    ">Distribute<br>paper<br>towels</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">5</span> , <span style="color: #5e81ac;">0</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">5</span> , <span style="color: #5e81ac;">5</span> </td>
@@ -211,13 +211,13 @@ Consider **the society you live in,** or **another society** with which you are 
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;vertical-align: middle !important;" rowspan="2"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Farmer 1</span></span> </td>
+   <td style="text-align:center;"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Farmer 1</span></span> </td>
    <td style="text-align:center;"> <span style=" font-weight: bold;    ">1<br>cow</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">8</span> , <span style="color: #5e81ac;">8</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">2</span> , <span style="color: #5e81ac;">10</span> </td>
   </tr>
   <tr>
-   
+   <td style="text-align:center;"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Farmer 1</span></span> </td>
    <td style="text-align:center;"> <span style=" font-weight: bold;    ">2+<br>cows</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">10</span> , <span style="color: #5e81ac;">2</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">4</span> , <span style="color: #5e81ac;">4</span> </td>
@@ -246,13 +246,13 @@ Consider **the society you live in,** or **another society** with which you are 
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;vertical-align: middle !important;" rowspan="2"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Farmer 1</span></span> </td>
+   <td style="text-align:center;"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Farmer 1</span></span> </td>
    <td style="text-align:center;"> <span style=" font-weight: bold;    ">1<br>cow</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">15</span> , <span style="color: #5e81ac;">15</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">2</span> , <span style="color: #5e81ac;">10</span> </td>
   </tr>
   <tr>
-   
+   <td style="text-align:center;"> <span style="-webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -ms-transform: rotate(270deg); -o-transform: rotate(270deg); transform: rotate(270deg); display: inline-block; "><span style=" font-weight: bold;    color: #bf616a !important;">Farmer 1</span></span> </td>
    <td style="text-align:center;"> <span style=" font-weight: bold;    ">2+<br>cows</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">10</span> , <span style="color: #5e81ac;">2</span> </td>
    <td style="text-align:center;"> <span style="color: #bf616a;">4</span> , <span style="color: #5e81ac;">4</span> </td>

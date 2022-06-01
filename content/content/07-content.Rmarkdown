@@ -1,9 +1,9 @@
 ---
 title: "The firm"
 linktitle: "7–8: The firm"
-date: "2021-06-28"
-start_date: "2021-06-28"
-end_date: "2021-07-02"
+date: "2022-06-27"
+start_date: "2022-06-27"
+end_date: "2022-07-01"
 menu:
   content:
     parent: Course content
@@ -11,8 +11,8 @@ menu:
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
-pdf: /slides/pmap8141_s21_07_08-slides.pdf
-thumb: /slides/pmap8141_s21_07_08-slides.png
+pdf: /slides/pmap8141_s22_07_08-slides.pdf
+thumb: /slides/pmap8141_s22_07_08-slides.png
 toc: true
 ---
 

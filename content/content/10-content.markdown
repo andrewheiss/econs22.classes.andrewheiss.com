@@ -1,9 +1,9 @@
 ---
 title: "Firms and markets II"
 linktitle: "10: Firms and markets II"
-date: "2021-07-05"
-start_date: "2021-07-05"
-end_date: "2021-07-09"
+date: "2022-07-05"
+start_date: "2022-07-05"
+end_date: "2022-07-08"
 type: docs
 bibliography: "../../static/bib/references.bib"
 csl: "../../static/bib/chicago-fullnote-bibliography-no-bib.csl"
