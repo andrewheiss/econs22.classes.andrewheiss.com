@@ -161,7 +161,7 @@ You can find descriptions for all the assignments on the [assignments page](/ass
 ```{r assignments-grades, include=FALSE}
 assignments <- tribble(
   ~Points,  ~Assignment,
-  20 * 7  , "Weekly reports (20 × 7)",
+  20 + (25 * 6)  , "Weekly check-ins (20 × 1; 25 × 6)",
   20 * 7  , "Problem sets (20 × 7)",
   125     , "Exam 1",
   175     , "Exam 2"

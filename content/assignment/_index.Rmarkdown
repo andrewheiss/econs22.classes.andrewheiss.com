@@ -21,7 +21,7 @@ Research about online courses consistently finds that [learning requires social 
 
 Facilitating, measuring, and quantifying social interaction in an online course, however, is fraught with difficulty. I do not want to create an inorganic forum where you must do things like leave two comments of at least 15 words every week, or other things that begin to approach busywork. The temptation to just phone in participation is too great (I would *absolutely* phone it in if I were taking a class with similar requirements: "great post i agree entirely with the premise of your reflection and synthesis thank you"—15 words, boom.).
 
-There are two elements of this course that are designed to make social interaction more organic and real and also allow you to work through economic principles together: (1) Slack and (2) weekly reports.
+There are two elements of this course that are designed to make social interaction more organic and real and also allow you to work through economic principles together: (1) Slack and (2) weekly check-ins
 
 ### Slack
 
@@ -29,13 +29,12 @@ To help facilitate online interaction, we will use Slack for communication. The 
 
 Access the class workspace [here](https://gsuecons22.slack.com), or click on the [<i class="fab fa-slack"></i>](https://gsuecons22.slack.com) icon in the header of this page. If you're unfamiliar with Slack, [scroll through Slack's official demo here](https://slackdemo.com/).
 
-There are three public channels in our class workspace:
+There are two public channels in our class workspace:
 
-- `#welcome`: Introduce yourself here after you join the workspace.
 - `#general`: Post and talk about general things related to the class and economics in general. Find a neat news story related to principal-agent problems? See an example of a stag hunt game in real life? Wonder why a problem set isn't posted yet? Share and ask those things here.
 - `#help`: Ask specific questions about problem sets and other assignments here.
 
-Feel free to create your own channels as well. For instance, if you want to use Slack to work on your weekly reports in your groups, create a channel. 
+Feel free to create your own channels as well. For instance, if you want to use Slack to review problem set answer keys with classmates, create a channel. 
 
 You can also direct message me to contact me directly.
 
@@ -46,63 +45,35 @@ In other online classes I have taught, I have found that a key predictor of succ
 **You're not going to be graded on Slack usage.** I will not watch to see who is active or count likes or responses or anything like that. If you want to opt out entirely and never use it, feel free to do so. You'll just miss out on a lot of public class-related conversation, possible avenues for help, and a pretty quick way to get in contact with me.
 
 
-### Weekly reports
+### Weekly check-ins
 
-To (1) demonstrate to me what you're learning in the class, and (2) facilitate interaction with others in the class, you will turn in a short weekly report by **11:59 PM every Monday**.
+To (1) demonstrate to me what you're learning in the class, and (2) help me answer your questions, you will turn in a short weekly check-in by **11:59 PM every Monday**.
 
-You will complete this report in groups of 5–6 that I will randomly assign at the beginning of the semester. 
+You will complete this check-in individually. **This is not a group assignment.** (It has been in the past, but I'm changing it this summer.)
 
-Each of you will take a specific role each week. You must play each role at least once during the semester. Figure out amongst yourselves who wants to do what and when. We're in a pandemic and your schedules are all wildly messed up right now. Please be respectful and generous with your groupmates in negotiating and scheduling your roles. 
+You will answer these two questions for each session:
 
-To help you with this report, [I've provided a template here](/assignment/weekly-reports/). I'd recommend using Google Docs and adding content to the report throughout the week.
+1. What were the **three (3)** most interesting or exciting things you learned from the session? Why?
+2. What were the **three (3)** muddiest or unclear things from the session this week? What are you still wondering about?    
 
-There are four roles for each weekly report, each with different responsibilities. **If your group has more than 4 people, the extra people will double up on a role.**
+You can include more than three interesting or muddiest things, but you must include at least three. There should be six easily identifiable things in each check-in: three exciting things and three questions.
 
-**Role 1: Analyzer**
+***IMPORTANT***: I *highly recommend* writing your responses in a separate document and copying/pasting the text into iCollege. It will be far easier for you if you write the responses right after completing the readings and watching the videos instead of waiting until you get around to putting them in iCollege—**you will forget your questions and insights if you don't.**
 
-Summarize and analyze the week's readings and videos. Complete the summary and analysis by Wednesday if possible to give others time to build on your work. This should be written in a bulleted format including the three points below. Each bullet point should be 2–5 complete sentences (that's short!).
+I will grade these check-ins using a check system:
 
-- What are the main economic principles from this week's content? Concisely synthesize the assigned readings.
-- Describe where the readings' content, theory, or assumptions diverge. What does one reading add to or detract from the others?
-- Critique one of more of the readings. Challenge an assumption, argument, or method of analysis.
+- ✔+: (*11.5 points (115%) in gradebook*) Response shows phenomenal thought and engagement with the course content. I will not assign these often.
+- ✔: (*10 points (100%) in gradebook*) Response is thoughtful, well-written, and shows engagement with the course content. This is the expected level of performance.
+- ✔−: (*5 points (50%) in gradebook*) Response is hastily composed, too short, and/or only cursorily engages with the course content. This grade signals that you need to improve next time. I will hopefully not assign these often.
 
-**Role 2: Evaluator**
+Notice that is essentially a pass/fail or completion-based system. I'm not grading your writing ability, I'm not counting the exact number of words you're writing, and I'm not looking for encyclopedic citations of every single reading to prove that you did indeed read everything. I'm looking for thoughtful engagement, three interesting things, and three questions. That's all. Do good work and you'll get a ✓.
 
-Evaluate and review the Analyzer's analysis. What are the strengths of the summary and critique? What are the gaps in the analysis? Did you come to similar or different conclusions? Simply agreeing is not acceptable. If you do agree with the Analyzer, then expand their summary and analysis. Limit your response to 250 words *at most* (that's roughly one page, double spaced in Word).
-
-**Role 3: Reporter**
-
-Find a current event and apply the week's principles to it. Build on the assigned readings and the Analyzer's analysis. Limit your response to 250 words *at most* (that's roughly one page, double spaced in Word) and provide a link to the article.
-
-**Role 4: Problem set-er**
-
-The problem setter's role changes depending on when problem sets are due. I will provide the answers keys for each problem set after it is due. 
-
-1. In weeks that do not immediately follow a problem set deadline (typically even weeks like session 2), you don't have much to do. I encourage you to work on your problem set together as a group or check each other's answers or ask each other questions, but this is not required.
-
-2. In weeks that immediately follow turning in a problem set (typically odd weeks like session 3), you will facilitate a review of the problem set answers between your group members This can be done via Slack, e-mail, Webex, WhatsApp, FaceTime, Skype, carrier pigeon, or any other platform. This discussion can be as long or as short as you want it to be. Taking on this role does not mean that you must be an expert in the questions or know exactly how to answer them—it just means that you'll lead the discussion.
-
-    Answer these two questions after the review:
-
-    - Which problem set question was the most difficult?
-    - What questions does your group still have?
-
-**Grading**
-
-I will grade these reports with a check system:
-
-- ✔+: (*12 points (120%) in gradebook*) Report shows phenomenal thought and deep engagement with the course content. I will not assign these often.
-- ✔: (*10 points (100%) in gradebook*) Report is thoughtful, well-written, and shows engagement with the course content. This is the expected level of performance.
-- ✔−: (*5 points (50%) in gradebook*) Report is hastily composed, too short, and/or only cursorily engages with the course content. This grade signals that you need to improve next time. I will hopefully not assign these often.
-
-Notice that is essentially a pass/fail or completion-based system. I'm not grading your writing ability, I'm not counting the exact number of words you're writing, and I'm not looking for encyclopedic citations of every single reading to prove that you did indeed read everything. I'm looking for thoughtful engagement, that's all. Do good work and you'll get a ✓.
-
-You will turn these reports in via iCollege. Only one person per group needs to turn it in.
+You will submit these check-ins via iCollege (they're listed in the "Quiz" section).
 
 
 ## Problem sets
 
-To practice solving microeconomic problems you will complete a series of 8 problem sets. Many of the questions on these assignments will come from *Economy, Society, and Public Policy*, some will come from previous courses, and others will come from my head.
+To practice solving microeconomic problems you will complete a series of 7 problem sets. Many of the questions on these assignments will come from *Economy, Society, and Public Policy*, some will come from previous courses, and others will come from my head.
 
 You need to show that you made a good faith effort to work each question. I will not grade these in detail—if you get stuck on a particularly tricky question, don't panic or worry! I provide you with all the answer keys and you will go over the answers as part of your weekly report.
 
@@ -115,6 +86,25 @@ The problem sets will be graded using a check system:
 You may (and should!) work together on the problem sets, but *you must turn in your own answers.*
 
 You will turn these problem sets in via iCollege. 
+
+### Problem set answer key review
+
+After submitting each problem set, its corresponding answer key will become available in the "Content" section at iCollege. You should download this and compare your answers with what's in the answer key. Check your work, see what you got right and wrong, and redo your work  to make sure you understand the questions (though you don't need to resubmit any of your work!)
+
+You can do this on your own, or you can meet up with classmates to review the answers as a group (***I highly recommend this!!!***). 
+
+**You'll report about your problem set review as part of the weekly check-in.** Like the weekly check-in, I *highly recommend* writing your responses in a separate document and copying/pasting the text into iCollege when you submit the check-in. You will forget your questions if you don't. 
+
+You'll answer these questions:
+
+- Did you review the problem set answer key and compare the answers with your work? (*1 point*)
+    - Yes, by myself
+    - Yes, with others from the class
+    - No
+- Which problem set question was the most difficult? (*2 points*)
+- What questions do you still have? (*2 points*)
+
+The review is worth 5 points.
 
 
 ## Exams

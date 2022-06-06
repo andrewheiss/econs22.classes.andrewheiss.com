@@ -28,7 +28,7 @@ assignment:
     weight: 1
   - name: Problem sets
     weight: 2
-  - name: Weekly reports
+  - name: Weekly check-ins
     weight: 3
 resource:
   - name: Resources
