@@ -25,6 +25,8 @@ table {
 
 **Submit this as a PDF on iCollege.** Show your work when possible.
 
+**Important reminder!**: Remember to check the how-to guides in the [resources section](/resource/) of the course website for step-by-step examples (with video!) of how to do the more mathy problems in this class. You'll want to refer to the guides on [inflation and change](/resource/inflation/) and [absolute and comparative advantage](/resource/advantage/) for this problem set.
+
 ## 1
 
 Download this dataset (Source: [Global Consumption and Income Project](https://jackblun.github.io/Globalinc/). All incomes expressed in 2005 USD PPP.)
